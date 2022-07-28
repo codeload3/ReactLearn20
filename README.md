@@ -1,2 +1,2 @@
 # ReactLearn20
-Created with CodeSandbox
+React Conditional Rendering with the Ternary Operator _ AND Operator
